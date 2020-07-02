@@ -19,7 +19,7 @@
       "supportsTablet": false
     },
     "android": {
-      "package": "com.agustinnavarrogaldon.cincotenedores",
+      "package": "com.reneordosgoitia.cincotenedores",
       "config": {
         "googleMaps": {
           "apiKey": "AIzaSyCl35awgvcdHhJUeujhwoNZBm-BZCZZ164"
