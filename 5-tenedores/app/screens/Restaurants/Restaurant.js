@@ -176,7 +176,7 @@ function RestaurantInfo(props) {
       action: null,
     },
     {
-      text: "xAgustin93@gmail.com",
+      text: "reneordosgoitia@gmail.com",
       iconName: "at",
       iconType: "material-community",
       action: null,
